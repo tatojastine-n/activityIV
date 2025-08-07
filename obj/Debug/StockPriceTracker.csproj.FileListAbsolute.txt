@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\StockPriceTracker\bin\Debug\StockPriceTracker.exe.config
+C:\Users\HP\source\repos\StockPriceTracker\bin\Debug\StockPriceTracker.exe
+C:\Users\HP\source\repos\StockPriceTracker\bin\Debug\StockPriceTracker.pdb
+C:\Users\HP\source\repos\StockPriceTracker\obj\Debug\StockPriceTracker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StockPriceTracker\obj\Debug\StockPriceTracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StockPriceTracker\obj\Debug\StockPriceTracker.exe
+C:\Users\HP\source\repos\StockPriceTracker\obj\Debug\StockPriceTracker.pdb
